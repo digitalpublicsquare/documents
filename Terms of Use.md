@@ -1,5 +1,5 @@
 
-**TERMS OF USE**
+**TERMS OF USE** 
 
 *LAST UPDATED: August 21, 2020* 
 
