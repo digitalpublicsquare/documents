@@ -1,7 +1,7 @@
 
 **TERMS OF USE**
 
-*LAST UPDATED: August 21, 2020*
+*LAST UPDATED: August 21, 2020* 
 
 This website located at www.itscontagiousgame.com (the “Site”) is operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for a Canadian audience.  The Site includes all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
 
