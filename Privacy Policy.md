@@ -15,14 +15,16 @@ Your participation on this platform is voluntary - you can exit the Site at any 
 **COLLECTION OF YOUR INFORMATION**
 
 Personal information is information that identifies you as an individual. The information we may collect or obtain includes: 
-Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Site. 
 
-General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our site. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Site, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Site.
+- Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Site. 
 
-Cookies: In addition, when you visit our Site, we collect certain information about your activity on our Site, as further described below.
+- General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our site. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Site, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Site.
+
+- Cookies: In addition, when you visit our Site, we collect certain information about your activity on our Site, as further described below.
 
 Digital Public Square is located within Canada, and therefore will transfer, process, and store any information in Canada, which may not provide as much protection as your home country. 
-Cookies and Website Analytics
+
+**COOKIES AND WEB ANALYTICS**
 
 We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly.
 
