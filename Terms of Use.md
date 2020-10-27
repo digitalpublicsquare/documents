@@ -2,7 +2,7 @@
 
 *LAST UPDATED: October 13, 2020* 
 
-These websites located at www.itscontagiousgame.com and www.itsinfectious.com (together, the “Sites”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada and the United States. The Sites include all downloadable applications, features, functionality, content or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
+These websites located at www.itscontagiousgame.com and www.itsinfectious.com and [coronavirus.publicsquare.digital](https://coronavirus.publicsquare.digital/)  (together, the “Sites”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada and the United States. The Sites include all downloadable applications, features, functionality, content or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
 
 The Site is made available to you for educational and research purposes. 
 
