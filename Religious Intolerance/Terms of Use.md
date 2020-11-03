@@ -2,6 +2,8 @@
 
 *LAST UPDATED: October 30, 2020* 
 
+_The legally binding privacy policy and terms of use are provided in the English language. The translation below is provided solely for convenience. In the event of any discrepancy, the terms and conditions outlined in the English version shall prevail._
+
 This website located at [www.maunghmangyi.com](www.maunghmangyi.com) (the “Site”) is operated by Digital Public Square (“DPS”,  “we”, “us” or “our”) and is intended for audiences in Myanmar. The Site includes all downloadable  applications, features, functionality, content or information that is made available or provided on the Site  and any other media form, media channel, mobile website, or mobile application related or connected  thereto.  
 
 The Site is made available to you for educational and research purposes.
@@ -71,6 +73,8 @@ If you have questions or comments about these Terms, please contact us at [priva
 # **Tအသုံးပြုခြင်းဆိုင်ရာ စည်းမျဉ်းစည်းကမ်းများ** 
 
 *နောက်ဆုံးပြင်ဆင်ချက်- ၃၀ သီတင်းကျွတ* 
+
+_ဥပဒေအရ သက်ရောက်မှုရှိသော ကိုယ်ရေးလုံခြုံမှု မူဝါဒနှင့် အသုံးပြုခြင်းဆိုင်ရာ စည်းမျဉ်းများအား အင်္ဂလိပ်ဘာသာစကားဖြင့် ဖော်ပြပေးထားပါသည်။ အောက်တွင်ဖော်ပြထားသော ဘာသာပြန်ချက်များမှာ ဖတ်ရှုသူ အဆင်ပြေနားလည်နိုင်စေရေး ရည်ရွယ်ချက်တစ်ခုတည်းအတွက်သာဖြစ်သည်။ တစ်စုံတစ်ရာ လွဲမှားချွတ်ချော်မှုရှိလာပါက အင်္ဂလိပ်ဘာသာစကားဖြင့်ဖော်ပြထားချက်များကိုသာ အမှန်အဖြစ်အတည်ယူမည်ဖြစ်ပါသည်။ _
 
 www.maunghmangyi.com[](www.maunghmangyi.com) (ထိုဆိုဒ်) ရှိ ဝက်ဆိုဒ်ကို Digital Public Square (“DPS”၊ “ကျွန်ုပ်တို့”၊ “ကျွန်ုပ်တို့ကို” သို့မဟုတ် “ကျွန်ုပ်တို့၏”) က စီမံခန့်ခွဲပြီး မြန်မာနိုင်ငံရှိ ပရိတ်သတ်များအတွက် ရည်ရွယ်ထားပါသည်။ ဆိုဒ်တွင် ဒေါင်းလုဒ်လုပ်နိုင်သော အက်ပလီကေးရှင်းများအားလုံး၊ အသားပေးဖော်ပြချက်များ၊ လုပ်ဆောင်ချက်၊ ပါဝင်သောအကြောင်းအရာ သို့မဟုတ် ဆိုဒ်တွင် ရရှိနိုင်သော သို့မဟုတ် အခြား မီဒီယာပုံစံ၊ မီဒီယာချန်နယ်လ်၊ မိုဘိုင်းလ် ဝက်ဘ်ဆိုဒ် သို့မဟုတ် ယင်းနှင့် ပူးတွဲလျက် ဆက်စပ်သည့် သို့မဟုတ် သက်ဆိုင်ရာ မိုဘိုင်းလ် အက်ပလီကေးရှင်းတို့တွင် ဖော်ပြပေးထားသော သတင်းအချက်အလက်များ ပါဝင်ပါသည်။   
 
