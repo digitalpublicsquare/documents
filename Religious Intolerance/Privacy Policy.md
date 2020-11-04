@@ -2,7 +2,7 @@
 
 *LAST UPDATED: October 30, 2020* 
 
-_The legally binding privacy policy and terms of use are provided in the English language. The translation below is provided solely for convenience. In the event of any discrepancy, the terms and conditions outlined in the English version shall prevail._
+_The legally binding Privacy Policy and Terms of Use are provided in the English language. The translation below is provided solely for convenience. Unless otherwise prescribed by applicable law, in the event of any discrepancy between the English version of the Privacy Policy and Terms of Use and the translation provided below, the English version shall prevail._
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our  websites located at www.[maunghmangyi.com](maunghmangyi.com) (the “Site”). The Site includes all downloadable applications,  features, functionality, content, or information that is made available or provided on the Site and any other  media form, media channel, mobile website, or mobile application related or connected thereto. We  respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant  information prior to collecting your personal information. 
 
@@ -72,7 +72,7 @@ If you have any requests, questions or comments about your personal information 
 
 *နောက်ဆုံး ပြန်လည်ပြင်ဆင်မှု- ၃၀ သီတင်းကျွတ* 
 
-ဥပဒေအရ သက်ရောက်မှုရှိသော ကိုယ်ရေးလုံခြုံမှု မူဝါဒနှင့် အသုံးပြုခြင်းဆိုင်ရာ စည်းမျဉ်းများအား အင်္ဂလိပ်ဘာသာစကားဖြင့် ဖော်ပြပေးထားပါသည်။ အောက်တွင်ဖော်ပြထားသော ဘာသာပြန်ချက်များမှာ ဖတ်ရှုသူ အဆင်ပြေနားလည်နိုင်စေရေး ရည်ရွယ်ချက်တစ်ခုတည်းအတွက်သာဖြစ်သည်။ တစ်စုံတစ်ရာ လွဲမှားချွတ်ချော်မှုရှိလာပါက အင်္ဂလိပ်ဘာသာစကားဖြင့်ဖော်ပြထားချက်များကိုသာ အမှန်အဖြစ်အတည်ယူမည်ဖြစ်ပါသည်။ 
+_ဥပဒေအရ သက်ရောက်မှုရှိသော ကိုယ်ရေးလုံခြုံမှု မူဝါဒနှင့် အသုံးပြုခြင်းဆိုင်ရာ စည်းမျဉ်းများအား အင်္ဂလိပ်ဘာသာစကားဖြင့် ဖော်ပြပေးထားပါသည်။ အောက်တွင်ဖော်ပြထားသော ဘာသာပြန်ချက်များမှာ ဖတ်ရှုသူ အဆင်ပြေနားလည်နိုင်စေရေး ရည်ရွယ်ချက်တစ်ခုတည်းအတွက်သာဖြစ်သည်။ သက်ဆိုင်ရာ ဥပဒေများက မည်ကဲ့သို့ ဖော်ပြထားစေကာမူ တစ်စုံတစ်ရာ မတူညီမှု၊လွဲမှားမှု ရှိလာပါက အင်္ဂလိပ်ဘာသာစကားဖြင့်ဖော်ပြထားချက်များကိုသာ အတည်ယူမည်ဖြစ်ပါသည်။_
 
 Digital Public Square (“DPS”, “ကျွန်ုပ်တို့” သို့မဟုတ် “ကျွန်ုပ်တို့ကို” သို့မဟုတ် “ကျွန်ုပ်တို့၏”) www.maunghmangyi.com (“ဆိုဒ်”) တွင် တည်ရှိသော ကျွန်ုပ်တို့၏ ဝဘ်ဆိုဒ်များသို့ လာရောက်ကြည့်ရှုသည့်သူများ၏ ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ဖို့ အာမခံပါသည်။ ထိုဆိုဒ်တွင် ဒေါင်းလုဒ်လုပ်နိုင်သော အက်ပလီကေးရှင်းများအားလုံး၊ အသားပေးဖော်ပြချက်များ၊ လုပ်ဆောင်ချက်၊ ပါဝင်သောအကြောင်းအရာ သို့မဟုတ် ဆိုဒ်တွင် ရရှိနိုင်သော သို့မဟုတ် အခြား မီဒီယာပုံစံ၊ မီဒီယာချန်နယ်လ်၊ မိုဘိုင်းလ် ဝက်ဘ်ဆိုဒ် သို့မဟုတ် ယင်းနှင့် ပူးတွဲလျက် ဆက်စပ်သည့် သို့မဟုတ် သက်ဆိုင်ရာ မိုဘိုင်းလ် အက်ပလီကေးရှင်းတို့တွင် ဖော်ပြပေးထားသော သတင်းအချက်အလက်များ ပါဝင်ပါသည်။ ကျွနု်ပ်တို့သည် အသုံးပြုသူများ၏ ကိုယ်ရေးလုံခြုံမှုကို လေးစားပြီး၊ ကျွန်ုပ်တို့၏ ရည်ရွယ်ချက်ကို အထမြောက်စေရန် သင်၏ ကိုယ်ရေးကိုယ်တာ အချက်အလက်ကို မစုဆောင်းထားမီ သက်ဆိုင်သည့် သတင်းအချက်အလက်များ အားလုံးကို ကြိုးစားဖော်ပြပေးထားပါသည်။
 
