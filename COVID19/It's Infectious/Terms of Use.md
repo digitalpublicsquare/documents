@@ -2,7 +2,7 @@
 
 *LAST UPDATED: November 11, 2020* 
 
-These website located at www.itsinfectious.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada and the United States. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
+These website located at www.itsinfectious.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in the United States. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
 
 The Site is made available to you for educational and research purposes. 
 
@@ -10,7 +10,7 @@ These Terms of Use (“Terms”) set out the terms and conditions that apply to 
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
-By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of either Canada or the United States.
+By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of the United States.
 
 ### **UPDATES**
 
