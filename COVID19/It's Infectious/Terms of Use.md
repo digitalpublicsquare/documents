@@ -1,6 +1,6 @@
 # **TERMS OF USE** 
 
-*LAST UPDATED: October 13, 2020* 
+*LAST UPDATED: November 11, 2020* 
 
 These website located at www.itsinfectious.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada and the United States. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. 
 
