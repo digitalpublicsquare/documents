@@ -25,7 +25,7 @@ We are not responsible if information, medical or otherwise, made available on t
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Privacy%20Policy.md).
+Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Workplace%20Safety/My%20Healthy%20Workplace/Privacy%20Policy.md).
 
 
 ### **CONTENT AND LICENSE**
