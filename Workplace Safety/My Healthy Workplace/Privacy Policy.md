@@ -33,7 +33,7 @@ DPS does have access to Google Analytics logs, which do not contain your name bu
  
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
-We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (Heritage Canada), and will share findings with the Canada School of Public Service. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes. 
+We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, and will share findings with the Canada School of Public Service. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes. 
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
 
