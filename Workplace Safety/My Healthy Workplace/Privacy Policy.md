@@ -63,4 +63,4 @@ The Site are not intended for or designed to attract, individuals under the age 
 
 You may opt out of any future contact from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Site: see what data we have about you, if any; change/correct any data we have about you; request that we delete any data we have about you; express any concern you have about our use of your data.
 
-If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email: [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org)
+If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email: [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org).
