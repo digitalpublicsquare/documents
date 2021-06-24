@@ -37,7 +37,7 @@ https://www.tbs-sct.gc.ca/pses-saff/2020/results-resultats/fr/bt-pt/dem/00/118#i
 
 #### Les préjugés influent sur chaque décision que nous prenons, qu’on le sache ou pas. Lorsque nous comprenons et surmontons nos propres préjugés inconscients, nous constituons des équipes diverses et solides et pouvons prévenir le harcèlement et violence en milieu de travail. ####
 
-* https://learn-apprendre.ca/course/view.php?id=241
+* Prévention du harcèlement et de la violence, Étude de cas 1, https://learn-apprendre.ca/course/view.php?id=241
 * Créer un milieu de recherche axé sur l’équité, la diversité et l’inclusion : guide des pratiques exemplaires de recrutement, d’embauche et de maintien en poste, https://www.chairs-chaires.gc.ca/program-programme/equity-equite/best_practices-pratiques_examplaires-fra.aspx
 * Diversité et équité en matière d'emploi, https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi2.html
 
@@ -147,12 +147,12 @@ https://www.tbs-sct.gc.ca/pses-saff/2020/results-resultats/fr/bt-pt/dem/00/118#i
 * Mental Health - Recognizing Psychological Health and Safety Hazards, https://www.ccohs.ca/oshanswers/psychosocial/mentalhealth_checklist_phs.html
 * Mental Health Job Aid for Managers: Psychosocial Factor 12 – Psychological Protection, https://www.csps-efpc.gc.ca/Tools/jobaids/pf12-psychological-protection-eng.aspx
 
-#### According to the 2020 Public Service Employee Survey, 67% of public servants describe their workplaces as being psychologically healthy compared to 17% who disagree.  ####
+#### Selon le Sondage auprès des fonctionnaires fédéraux de 2020, 67% des fonctionnaires décrivent leur milieu de travail comme étant psychologiquement sain, comparativement à 17% qui ne sont pas d'accord.  ####
 
-* 2020 Public Service Employee Survey Results for the Public Service, https://www.tbs-sct.gc.ca/pses-saff/2020/results-resultats/en/bt-pt/org/00#i5-s20 
-* Federal Public Service Workplace Mental Health Strategy, https://www.canada.ca/en/government/publicservice/wellness-inclusion-diversity-public-service/health-wellness-public-servants/mental-health-workplace/federal-public-service-workplace-mental-health-strategy.html
-* Mental Health - Recognizing Psychological Health and Safety Hazards, https://www.ccohs.ca/oshanswers/psychosocial/mentalhealth_checklist_phs.html
-* Mental Health Job Aid for Managers: Psychosocial Factor 12 – Psychological Protection, https://www.csps-efpc.gc.ca/Tools/jobaids/pf12-psychological-protection-eng.aspx
+* Résultats du Sondage auprès des fonctionnaires fédéraux de 2020 pour la fonction publique, https://www.tbs-sct.gc.ca/pses-saff/2020/results-resultats/fr/bt-pt/org/00#i5-s20
+* Stratégie pour la fonction publique fédérale sur la santé mentale en milieu de travail, https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/sante-mieux-etre-fonctionnaires/sante-mentale-travail/strategie-fonction-publique-federale-sante-mentale-milieu-travail.html
+* Santé mentale – Reconnaître les risques pour la santé et la sécurité psychologiques, https://www.cchst.ca/oshanswers/psychosocial/mentalhealth_checklist_phs.html
+* Outils de santé mentale pour les gestionnaires : Facteur psychosocial 12 - Protection de la sécurité psychologique, https://www.csps-efpc.gc.ca/tools/jobaids/pf12-psychological-protection-fra.aspx"
 
 #### Employers have a legal obligation to provide employees with a healthy and safe work place. The Canada Labour Code and the Work Place Harassment and Violence Prevention Regulations outline the steps that employers must follow. #### 
 
