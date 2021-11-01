@@ -1,16 +1,13 @@
-# **TERMS OF USE** 
+**TERMS OF USE**
 
-*LAST UPDATED: October 29, 2021* 
-
-These website located at www.knowitornot.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These website located at [http://shouldyoushareit.com/](http://shouldyoushareit.com/) (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in South Africa. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Vaccines/CAN/Privacy%20Policy.md) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our Privacy Policy (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
-By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of Canada.
-
+By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of South Africa.
 
 ### **UPDATES**
 
@@ -22,11 +19,9 @@ The Site are an educational tool and is not intended to serve a purpose such as 
 
 We are not responsible if information, medical or otherwise, made available on this Site are not accurate, complete, or current. The material on this Site are provided for general information only and should not be relied upon or used for making decisions without consulting primary, more accurate, more complete, or more timely sources of information, including your family physician. Any reliance on the material on this Site is at your own risk.
 
-
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Vaccines/CAN/Privacy%20Policy.md).
-
+Your personal information is governed by our Privacy Policy.
 
 ### **CONTENT AND LICENSE**
 
@@ -48,18 +43,16 @@ In no event shall DPS, its directors, offices, employees, agents or representati
 
 You agree to indemnify, defend and hold harmless DPS and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your breach of these Terms or the documents they incorporate by reference or your violation of any law or the rights of a third-party.
 
-
 ### **THIRD PARTY SITES**
 
 Any links on the Site to third party websites are provided for your convenience. If you choose to access third party websites or obtain products or services from third parties, you do so entirely at your own risk and such access is between you and such third party. DPS does not warrant or make any representations regarding the legality, accuracy or authenticity of content presented by such websites or any products or services offered by third parties and shall have no liability for any loss or damages arising from the access or use of such websites, products or services. You are strongly advised to check the terms of use and the privacy policies of these external websites or resources before making use of them. You acknowledge that DPS may remove any link to an external website or to resources at any time for any reason whatsoever.
 
 ### **GOVERNING LAW**
-
-These Terms and any documents referenced herein shall be governed by and construed in accordance with the laws of the Province of Ontario and federal laws of Canada applicable therein. You agree to the exclusive jurisdiction of the courts of the Province of Ontario in respect of all matters and disputes arising hereunder.
+These Terms and any documents referenced herein shall be governed by and construed in accordance with the laws of the Republic of South Africa applicable therein. You agree to the exclusive jurisdiction of the courts of South Africa in respect of all matters and disputes arising hereunder.
 
 ### **ENTIRE AGREEMENT**
 
-These Terms and the Privacy Policy constitute the entire agreement between you and DPS as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between DPS and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and DPS agree that these Terms and all documents relating thereto be drawn-up in English. Nous avons demandé que cette convention ainsi que tous les documents qui s’y rattachent soient rédigés en Anglais.
+These Terms and the Privacy Policy constitute the entire agreement between you and DPS as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between DPS and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and DPS agree that these Terms and all documents relating thereto be drawn-up in English. 
 
 ### **SEVERABILITY AND WAIVER**
 
@@ -74,5 +67,5 @@ These Terms are personal to you, and are not assignable, transferable, or sublic
 This electronic document, and all other electronic documents referred to or incorporated herein, will be: (a) deemed for all purposes to be a “writing” or “in writing”, and to comply with all statutory, contractual, and other legal requirements for a writing; and (b) legally enforceable as a signed agreement.
 
 ### **CONTACT INFORMATION**
+If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org).
 
-If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org) 	     
