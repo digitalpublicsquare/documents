@@ -20,7 +20,7 @@ Personal information is information that identifies you as an individual (or jur
 
 - Cookies: In addition, when you visit our Site, we collect certain information about your activity on our Site, as further described below.
 
-The Site are administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada or in the United States. Please note that this may not provide as much protection as your home country.
+The Site is administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada or in the United States. Please note that this may not provide as much protection as your home country.
 
 ### **COOKIES AND WEB ANALYTICS**
 
