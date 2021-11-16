@@ -1,11 +1,12 @@
 # **TERMS OF USE** 
 
-*LAST UPDATED: October 29, 2021* 
+*LAST UPDATED: November 16, 2021* 
 
-These website located at www.knowitornot.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These website located at www.afewmins.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Vaccines/CAN/Privacy%20Policy.md) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Labour%20Standards/A%20Few%20Mins/Privacy%20Policy.md) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
@@ -25,7 +26,7 @@ We are not responsible if information, medical or otherwise, made available on t
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Vaccines/CAN/Privacy%20Policy.md).
+Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Labour%20Standards/A%20Few%20Mins/Privacy%20Policy.md).
 
 
 ### **CONTENT AND LICENSE**
@@ -35,6 +36,7 @@ DPS hereby grants you a limited, non-exclusive, personal, non-transferable, non-
 All content and data made available by DPS through the Site (the “DPS Content”) are owned solely and exclusively by DPS and/or third parties. You may not market, sell, re-sell or make commercial use of the Site or any DPS Content. If you provide DPS with any comments, suggestions, recommendations, requests or any other feedback (“Feedback”), DPS may use such feedback to improve the Site for any other purpose. Furthermore, DPS shall own such Feedback and DPS and its affiliates, licensees, clients, partners, third-party providers and other authorized entitled may use, license, distribute, reproduce and commercialize the Feedback, and you hereby assign, irrevocably, exclusively and on a royalty-free basis, all such Feedback to DPS.
 
 All product, brand and DPS names and logos and trade-marks displayed on the Site or used in connection with the Site are the trade-marks of DPS (or its suppliers, partner businesses or third party licensors). Any use of any of the marks appearing on the Site or in connection therewith without the express written consent of DPS or the owner of the mark, as appropriate, is strictly prohibited.
+
 
 ### **PROHIBITED USES**
 
