@@ -1,20 +1,20 @@
 # **PRIVACY POLICY**
 
-*LAST UPDATED: October 29, 2021*
+*LAST UPDATED: November 16, 2021*
 
-Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at www.knowitornot.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
+Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at afewmins.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site is made available to you for educational and research purposes.
 
-**By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada and the United States.**
+By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada and the United States.
 
-Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Site. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.  
-
+Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Site. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 Your participation on this platform is voluntary - you can exit the Site at any time.
+
 
 ### **COLLECTION OF YOUR INFORMATION**
 
-Personal information is information that identifies you as an individual. The information we may collect or obtain includes: 
+Personal information is information that identifies you as an individual. The information we may collect or obtain includes:
 
 - Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Site.
 
@@ -23,23 +23,24 @@ Personal information is information that identifies you as an individual. The in
 - Cookies: In addition, when you visit our Site, we collect certain information about your activity on our Site, as further described below.
 
 The Site is administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada or in the United States. Please note that this may not provide as much protection as your home country.
+
  
 ### **COOKIES AND WEB ANALYTICS**
 
 We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly.
 
 DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
+
  
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
-We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (The Public Health Agency of Canada), and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
+We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, and to report project progress. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
 
 We may share personal information with our affiliates or any business partners or agents acting on our behalf or with our financial, insurance, legal, accounting or other advisors that provide professional services to us.
 
 Your personal information may be disclosed to a company or individual employed or engaged by us to perform functions on our behalf such as data processing or document retention. Any such disclosure of your personal information is made on a strictly confidential basis, and the information is to be used only for the purpose for which it was shared. We ensure that the company or individual adheres to this Privacy Policy.
-
 Subject to applicable regulations, we may disclose your personal information to a government agency, court, or law enforcement personnel.
 
 ### **SECURITY OF YOUR INFORMATION**
@@ -56,9 +57,11 @@ From time to time, we may include links to third party websites which are not co
 
 ### **AGE RESTRICTION**
 
-The Site is not intended for, or designed to, attract individuals under the age of 18. We do not knowingly collect personal information from users under 18. Anyone under 18 should not use the Site. 
+The Site is not intended for, or designed to, attract individuals under the age of 18. We do not knowingly collect personal information from users under 18. Anyone under 18 should not use the Site.
 
 ### **YOUR ACCESS TO AND CONTROL OVER INFORMATION**
 
 You may opt out of any future contact from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Site: see what data we have about you, if any; change/correct any data we have about you; request that we delete any data we have about you; express any concern you have about our use of your data.
-If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email: [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org)
+
+If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email:
+[privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org)
