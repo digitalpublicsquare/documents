@@ -1,8 +1,8 @@
 # **TERMS OF USE** 
 
-*LAST UPDATED: November 16, 2021* 
+*LAST UPDATED: November 17, 2021* 
 
-These website located at www.afewmins.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These website located at afewmins.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 
