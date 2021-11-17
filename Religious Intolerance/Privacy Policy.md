@@ -2,7 +2,7 @@ The legally binding privacy policy and terms of use are provided in the English 
 
 # **PRIVACY POLICY** 
 
-*LAST UPDATED: October 30, 2020*
+*LAST UPDATED: November 17, 2020*
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our  websites located at maunghmangyi.com and thukhamainlay.com (the “Sites”). The Sites includes all downloadable applications,  features, functionality, content, or information that is made available or provided on the Sites and any other  media form, media channel, mobile website, or mobile application related or connected thereto. We  respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant  information prior to collecting your personal information. 
 
