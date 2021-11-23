@@ -1,6 +1,8 @@
 # **TERMS OF USE** 
 
-*LAST UPDATED: November 17, 2021* 
+*LAST UPDATED: November 23, 2021* 
+
+「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
 
 These website located at afewmins.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
