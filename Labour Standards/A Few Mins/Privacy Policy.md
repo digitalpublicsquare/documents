@@ -1,6 +1,8 @@
 # **PRIVACY POLICY**
 
-*LAST UPDATED: November 16, 2021*
+*LAST UPDATED: November 23, 2021*
+
+「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at afewmins.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
