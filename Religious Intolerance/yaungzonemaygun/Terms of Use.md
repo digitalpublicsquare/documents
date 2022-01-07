@@ -19,7 +19,7 @@ By agreeing to these Terms, you represent that you are at least the age of 18 an
 We reserve the right to make changes to these Terms at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of these Terms. Any changes or modifications  will be effective immediately upon posting the updated Terms on the Sites. You are encouraged to  periodically review these Terms to stay informed of updates. You will be deemed to have been made  aware of, will be subject to, and will be deemed to have accepted the changes in any revised Terms by  your continued use of the Sites after the date such revised Terms are posted. 
 
 ### **PERSONAL INFORMATION** 
-Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Religious%20Intolerance/Privacy%20Policy.md)
+Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Religious%20Intolerance/yaungzonemaygun/Privacy%20Policy.md)
 
 ### **CONTENT AND LICENSE**
 
