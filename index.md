@@ -1,9 +1,16 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Digital Public Square Antimisinformation Games
 
 ## It's Contagious
 
 - [Social Media Advertising Transparency](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Contagious/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
-- [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Contagious/Privacy%20Policy.html)
+- [Privacy Policy](/COVID19/It's%20Contagious/Privacy%20Policy.html)
 - [Terms of Service](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Contagious/Terms%20of%20Use.html)
 
 ## It's Infectious
