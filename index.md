@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Digital Public Square
 exclude: true
 ---
 
