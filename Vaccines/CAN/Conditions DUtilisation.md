@@ -1,12 +1,19 @@
+---
+layout: page
+title: Know It or Not
+permalink: /kion-can-fr-tou/
+exclude: true
+---
+
 # **CONDITIONS D’UTILISATION**
 
-*DERNIÈRE MISE À JOUR : 9 février 2022*
+_DERNIÈRE MISE À JOUR : 9 février 2022_
 
 Les sites Web situés à www.knowitornot.com (collectivement, le « site ») sont exploités par Digital Public Square (« DPS », « nous » ou « notre ») et sont destinés à un public canadien. Le site comprend toutes les applications téléchargeables, les caractéristiques, les fonctionnalités, le contenu ou les informations qui sont mis à la disposition ou fournis sur le site et toute autre forme de support, support médiatique, site Web mobile ou application mobile qui y est liée ou connectée.
 
 Le site est mis à votre disposition à des fins d’éducation et de recherche.
 
-Les présentes conditions d’utilisation énoncent les conditions générales d’utilisation qui s’appliquent à votre accès au site et à son utilisation. Vous acceptez que votre utilisation des services soit soumise aux conditions de notre Politique de confidentialité, qui est intégrée par référence dans les conditions et en fait partie intégrante. 
+Les présentes conditions d’utilisation énoncent les conditions générales d’utilisation qui s’appliquent à votre accès au site et à son utilisation. Vous acceptez que votre utilisation des services soit soumise aux conditions de notre Politique de confidentialité, qui est intégrée par référence dans les conditions et en fait partie intégrante.
 
 EN UTILISANT LE SITE, VOUS ÊTES RÉPUTÉ AVOIR LU ET ACCEPTÉ LES CONDITIONS GÉNÉRALES D’UTILISATION DES PRÉSENTES CONDITIONS, QUI RÉGIRONT VOTRE ACCÈS ET VOTRE UTILISATION DU SITE, ET VOUS ACCEPTEZ D’ÊTRE LIÉ PAR CES CONDITIONS. SI VOUS N’ACCEPTEZ PAS UNE OU PLUSIEURS DE CES CONDITIONS, VOUS NE POUVEZ PAS ACCÉDER AU SITE, NI L’UTILISER, ET VOUS DEVEZ QUITTER LE SITE. LES PRÉSENTES CONDITIONS COMPORTENT UNE DÉCHARGE DE VOTRE PART DE TOUTES LES RÉCLAMATIONS POUR DOMMAGES CONTRE NOUS QUI POURRAIENT RÉSULTER DE VOTRE UTILISATION DU SITE. EN UTILISANT LE SITE, VOUS AFFIRMEZ QUE VOUS ACCEPTEZ LES PRÉSENTES DISPOSITIONS.
 

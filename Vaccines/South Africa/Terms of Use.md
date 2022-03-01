@@ -1,3 +1,10 @@
+---
+layout: page
+title: Know It or Not
+permalink: /kion-za-tou/
+exclude: true
+---
+
 # **TERMS OF USE**
 
 These website located at [https://sa.knowitornot.com/](https://sa.knowitornot.com/) (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in South Africa. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
@@ -48,11 +55,12 @@ You agree to indemnify, defend and hold harmless DPS and our parent, subsidiarie
 Any links on the Site to third party websites are provided for your convenience. If you choose to access third party websites or obtain products or services from third parties, you do so entirely at your own risk and such access is between you and such third party. DPS does not warrant or make any representations regarding the legality, accuracy or authenticity of content presented by such websites or any products or services offered by third parties and shall have no liability for any loss or damages arising from the access or use of such websites, products or services. You are strongly advised to check the terms of use and the privacy policies of these external websites or resources before making use of them. You acknowledge that DPS may remove any link to an external website or to resources at any time for any reason whatsoever.
 
 ### **GOVERNING LAW**
+
 These Terms and any documents referenced herein shall be governed by and construed in accordance with the laws of the Republic of South Africa applicable therein. You agree to the exclusive jurisdiction of the courts of South Africa in respect of all matters and disputes arising hereunder.
 
 ### **ENTIRE AGREEMENT**
 
-These Terms and the Privacy Policy constitute the entire agreement between you and DPS as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between DPS and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and DPS agree that these Terms and all documents relating thereto be drawn-up in English. 
+These Terms and the Privacy Policy constitute the entire agreement between you and DPS as it relates to the access to, and use of, the Site, and the subject matter of these Terms and supersede all prior or contemporaneous agreements, negotiations, representations and proposals, written or oral between DPS and you. All covenants, agreements, representations and warranties made in these Terms shall survive your acceptance of these Terms and the termination of our relationship with you. You and DPS agree that these Terms and all documents relating thereto be drawn-up in English.
 
 ### **SEVERABILITY AND WAIVER**
 
@@ -67,5 +75,5 @@ These Terms are personal to you, and are not assignable, transferable, or sublic
 This electronic document, and all other electronic documents referred to or incorporated herein, will be: (a) deemed for all purposes to be a “writing” or “in writing”, and to comply with all statutory, contractual, and other legal requirements for a writing; and (b) legally enforceable as a signed agreement.
 
 ### **CONTACT INFORMATION**
-If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org).
 
+If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org).

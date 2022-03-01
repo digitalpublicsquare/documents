@@ -1,3 +1,10 @@
+---
+layout: page
+title: Know It or Not
+permalink: /kion-can-fr-pp/
+exclude: true
+---
+
 # **POLITIQUE DE CONFIDENTIALITÉ**
 
 Digital Public Square (« DPS », « nous » ou « notre ») s’engage à protéger la vie privée des visiteurs de notre site Web situé à www.knowitornot.com (le « site »). Le site comprend toutes les applications téléchargeables, les caractéristiques, les fonctionnalités, le contenu ou les informations qui sont mis à disposition ou fournis sur le site et toute autre forme de support, support médiatique, site Web mobile ou application mobile qui y est liée ou connectée. Nous respectons la vie privée de nos utilisateurs et, dans le cadre de notre mission, nous nous efforçons de vous fournir toutes les informations pertinentes avant de recueillir vos renseignements personnels.
@@ -29,7 +36,7 @@ DPS a accès aux journaux de Google Analytics, qui ne contiennent pas votre nom,
 
 ### **UTILISATION ET DIVULGATION DE VOS RENSEIGNEMENTS**
 
-Nous compilons des données statistiques agrégées anonymisées et des analyses à des fins d’usage interne ou de communications publiques ainsi que pour faire rapport des progrès du projet à nos bailleurs de fonds (l’Agence de la santé publique du Canada). En outre, les constatations seront communiquées à l’Université de la Caroline du Sud.  Nous pouvons également utiliser vos renseignements personnels d’autres manières avec votre consentement ou comme le permet la loi applicable. En utilisant le site, vous acceptez que nous soyons autorisés par la présente à recueillir, utiliser, partager et stocker des données agrégées anonymisées (ou pseudonymisées) recueillies par l’entremise du site à des fins d’analyse comparative, d’analyse, de mesure, de recherche, de rapport, d’apprentissage automatique et à d’autres fins commerciales.
+Nous compilons des données statistiques agrégées anonymisées et des analyses à des fins d’usage interne ou de communications publiques ainsi que pour faire rapport des progrès du projet à nos bailleurs de fonds (l’Agence de la santé publique du Canada). En outre, les constatations seront communiquées à l’Université de la Caroline du Sud. Nous pouvons également utiliser vos renseignements personnels d’autres manières avec votre consentement ou comme le permet la loi applicable. En utilisant le site, vous acceptez que nous soyons autorisés par la présente à recueillir, utiliser, partager et stocker des données agrégées anonymisées (ou pseudonymisées) recueillies par l’entremise du site à des fins d’analyse comparative, d’analyse, de mesure, de recherche, de rapport, d’apprentissage automatique et à d’autres fins commerciales.
 
 Nous nous réservons le droit de divulguer des renseignements personnels si la loi l’exige ou si nous pensons en toute bonne foi qu’une telle action est raisonnablement nécessaire pour se conformer à une procédure légale, répondre à des réclamations ou protéger les droits, la propriété ou la sécurité de DPS, de ses sociétés affiliées, de ses clients, de ses fournisseurs de services ou du public.
 

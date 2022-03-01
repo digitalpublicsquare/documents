@@ -6,12 +6,13 @@ description: >- # this means to ignore newlines until "baseurl:"
   - you'll find their Privacy Policy, Terms of Use, and repositories 
   here so you can track any changes over time.
 baseurl: "/antimisinfogames"
-url: "https://digitalpublicsquare.github.io/"
+url: "https://digitalpublicsquare.github.io"
 github_username: digitalpublicsquare
 
 # Build settings
 markdown: kramdown
 theme: minima
+blog: false
 plugins:
   - jekyll-feed
 # Exclude from processing.

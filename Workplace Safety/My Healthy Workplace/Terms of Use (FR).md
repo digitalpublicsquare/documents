@@ -1,12 +1,19 @@
+---
+layout: page
+title: My Healthy Workplace
+permalink: /mhw-fr-tou/
+exclude: true
+---
+
 # **CONDITIONS D’UTILISATION**
 
-*DERNIÈRE MISE À JOUR : 15 join 2021*
+_DERNIÈRE MISE À JOUR : 15 join 2021_
 
 Les sites Web situés à www.myhealthyworkplace.ca (collectivement, le « site ») sont exploités par Digital Public Square (« DPS », « nous » ou « notre ») et sont destinés à un public canadien. Le site comprend toutes les applications téléchargeables, les caractéristiques, les fonctionnalités, le contenu ou les informations qui sont mis à la disposition ou fournis sur le site et toute autre forme de support, support médiatique, site Web mobile ou application mobile qui y est liée ou connectée.
 
 Le site est mis à votre disposition à des fins d’éducation et de recherche.
 
-Les présentes conditions d’utilisation énoncent les conditions générales d’utilisation qui s’appliquent à votre accès au site et à son utilisation. Vous acceptez que votre utilisation des services soit soumise aux conditions de notre [Politique de confidentialité](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Workplace%20Safety/My%20Healthy%20Workplace/Privacy%20Policy.md), qui est intégrée par référence dans les conditions et en fait partie intégrante. 
+Les présentes conditions d’utilisation énoncent les conditions générales d’utilisation qui s’appliquent à votre accès au site et à son utilisation. Vous acceptez que votre utilisation des services soit soumise aux conditions de notre [Politique de confidentialité](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Workplace%20Safety/My%20Healthy%20Workplace/Privacy%20Policy.md), qui est intégrée par référence dans les conditions et en fait partie intégrante.
 
 EN UTILISANT LE SITE, VOUS ÊTES RÉPUTÉ AVOIR LU ET ACCEPTÉ LES CONDITIONS GÉNÉRALES D’UTILISATION DES PRÉSENTES CONDITIONS, QUI RÉGIRONT VOTRE ACCÈS ET VOTRE UTILISATION DU SITE, ET VOUS ACCEPTEZ D’ÊTRE LIÉ PAR CES CONDITIONS. SI VOUS N’ACCEPTEZ PAS UNE OU PLUSIEURS DE CES CONDITIONS, VOUS NE POUVEZ PAS ACCÉDER AU SITE, NI L’UTILISER, ET VOUS DEVEZ QUITTER LE SITE. LES PRÉSENTES CONDITIONS COMPORTENT UNE DÉCHARGE DE VOTRE PART DE TOUTES LES RÉCLAMATIONS POUR DOMMAGES CONTRE NOUS QUI POURRAIENT RÉSULTER DE VOTRE UTILISATION DU SITE. EN UTILISANT LE SITE, VOUS AFFIRMEZ QUE VOUS ACCEPTEZ LES PRÉSENTES DISPOSITIONS.
 
@@ -42,7 +49,7 @@ Outre les autres interdictions énoncées dans les présentes conditions, il vou
 
 LE SITE EST FOURNI PAR DPS SUR UNE BASE « TEL QUEL » ET « TEL QUE DISPONIBLE ». DPS PEUT APPORTER DES MODIFICATIONS OU DES AMÉLIORATIONS AU CONTENU ET À LA FONCTIONNALITÉ DU SITE À TOUT MOMENT, SANS VOUS EN INFORMER AU PRÉALABLE. DPS NE GARANTIT PAS QUE LE SITE OU LE CONTENU DE DPS SERONT DISPONIBLES À UN MOMENT OU EN UN ENDROIT PARTICULIER OU QUE LE SITE EST EXEMPT DE VIRUS OU D’AUTRES COMPOSANTS NUISIBLES. DPS NE FAIT AUCUNE DÉCLARATION CONCERNANT L’EXACTITUDE TECHNIQUE OU LA FONCTIONNALITÉ DU SITE OU LE FAIT QUE LE CONTENU DE DPS SOIT EXACT, EXEMPT D’ERREURS OU À JOUR. DPS N’OFFRE AUCUNE GARANTIE OU CONDITION DE QUELQUE NATURE QUE CE SOIT, EXPRESSE OU IMPLICITE, Y COMPRIS MAIS NON DE FAÇON LIMITATIVE, L’APTITUDE À UN USAGE PARTICULIER, LE TITRE OU LA NON-VIOLATION DES DROITS OU DE LA PROPRIÉTÉ INTELLECTUELLE DE TIERS.
 
-En aucun cas, DPS, ses administrateurs, ses bureaux, ses employés, ses mandataires ou ses représentants ne pourront être tenus responsables de tout dommage direct, indirect, accessoire, spécial, punitif ou consécutif de quelque nature que ce soit, y compris mais non de façon limitative, ceux découlant d’une blessure corporelle ou d’une perte de données, que DPS ait été ou non informé de la possibilité de dommages, sur toute théorie de responsabilité, découlant de ou en relation avec l’accès, l’utilisation ou la performance du site ou de tout contenu ou autre information fournie en relation avec le site. 
+En aucun cas, DPS, ses administrateurs, ses bureaux, ses employés, ses mandataires ou ses représentants ne pourront être tenus responsables de tout dommage direct, indirect, accessoire, spécial, punitif ou consécutif de quelque nature que ce soit, y compris mais non de façon limitative, ceux découlant d’une blessure corporelle ou d’une perte de données, que DPS ait été ou non informé de la possibilité de dommages, sur toute théorie de responsabilité, découlant de ou en relation avec l’accès, l’utilisation ou la performance du site ou de tout contenu ou autre information fournie en relation avec le site.
 
 Ces limitations s’appliquent nonobstant tout échec de l’objectif essentiel de tout recours limité.
 

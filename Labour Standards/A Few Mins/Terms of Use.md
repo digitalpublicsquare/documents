@@ -1,6 +1,13 @@
-# **TERMS OF USE** 
+---
+layout: page
+title: A Few Mins
+permalink: /afm-tou/
+exclude: true
+---
 
-*LAST UPDATED: November 23, 2021* 
+# **TERMS OF USE**
+
+_LAST UPDATED: November 23, 2021_
 
 「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
 
@@ -14,7 +21,6 @@ BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANC
 
 By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of Canada.
 
-
 ### **UPDATES**
 
 We reserve the right to make changes to these Terms at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of these Terms. Any changes or modifications will be effective immediately upon posting the updated Terms on the Site. You are encouraged to periodically review these Terms to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Terms by your continued use of the Site after the date such revised Terms are posted.
@@ -25,11 +31,9 @@ The Site are an educational tool and is not intended to serve a purpose such as 
 
 We are not responsible if information, medical or otherwise, made available on this Site are not accurate, complete, or current. The material on this Site are provided for general information only and should not be relied upon or used for making decisions without consulting primary, more accurate, more complete, or more timely sources of information, including your family physician. Any reliance on the material on this Site is at your own risk.
 
-
 ### **PERSONAL INFORMATION**
 
 Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Labour%20Standards/A%20Few%20Mins/Privacy%20Policy.md).
-
 
 ### **CONTENT AND LICENSE**
 
@@ -38,7 +42,6 @@ DPS hereby grants you a limited, non-exclusive, personal, non-transferable, non-
 All content and data made available by DPS through the Site (the “DPS Content”) are owned solely and exclusively by DPS and/or third parties. You may not market, sell, re-sell or make commercial use of the Site or any DPS Content. If you provide DPS with any comments, suggestions, recommendations, requests or any other feedback (“Feedback”), DPS may use such feedback to improve the Site for any other purpose. Furthermore, DPS shall own such Feedback and DPS and its affiliates, licensees, clients, partners, third-party providers and other authorized entitled may use, license, distribute, reproduce and commercialize the Feedback, and you hereby assign, irrevocably, exclusively and on a royalty-free basis, all such Feedback to DPS.
 
 All product, brand and DPS names and logos and trade-marks displayed on the Site or used in connection with the Site are the trade-marks of DPS (or its suppliers, partner businesses or third party licensors). Any use of any of the marks appearing on the Site or in connection therewith without the express written consent of DPS or the owner of the mark, as appropriate, is strictly prohibited.
-
 
 ### **PROHIBITED USES**
 
@@ -51,7 +54,6 @@ THE Site ARE PROVIDED BY DPS ON AN "AS IS" AND "AS AVAILABLE" BASIS. DPS MAY MAK
 In no event shall DPS, its directors, offices, employees, agents or representatives be liable for any direct, indirect, incidental, special, punitive or consequential damages of any kind, including, without limitation, those resulting from personal injury or loss of data, whether or not DPS has been advised of the possibility of damages, on any theory of liability, arising out of or in connection with access to, use or performance of the Site or any content or other information provided in connection with the Site. These limitations shall apply notwithstanding any failure of essential purpose of any limited remedy.
 
 You agree to indemnify, defend and hold harmless DPS and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your breach of these Terms or the documents they incorporate by reference or your violation of any law or the rights of a third-party.
-
 
 ### **THIRD PARTY SITES**
 
@@ -79,4 +81,4 @@ This electronic document, and all other electronic documents referred to or inco
 
 ### **CONTACT INFORMATION**
 
-If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org) 	     
+If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org)

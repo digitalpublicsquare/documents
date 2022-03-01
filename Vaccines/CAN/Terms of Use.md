@@ -1,6 +1,13 @@
-# **TERMS OF USE** 
+---
+layout: page
+title: Know It or Not
+permalink: /kion-can-en-tou/
+exclude: true
+---
 
-*LAST UPDATED: October 29, 2021* 
+# **TERMS OF USE**
+
+_LAST UPDATED: October 29, 2021_
 
 These website located at www.knowitornot.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
@@ -10,7 +17,6 @@ These Terms of Use (“Terms”) set out the terms and conditions that apply to 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
 By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of Canada.
-
 
 ### **UPDATES**
 
@@ -22,11 +28,9 @@ The Site are an educational tool and is not intended to serve a purpose such as 
 
 We are not responsible if information, medical or otherwise, made available on this Site are not accurate, complete, or current. The material on this Site are provided for general information only and should not be relied upon or used for making decisions without consulting primary, more accurate, more complete, or more timely sources of information, including your family physician. Any reliance on the material on this Site is at your own risk.
 
-
 ### **PERSONAL INFORMATION**
 
 Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Vaccines/CAN/Privacy%20Policy.md).
-
 
 ### **CONTENT AND LICENSE**
 
@@ -47,7 +51,6 @@ THE Site ARE PROVIDED BY DPS ON AN "AS IS" AND "AS AVAILABLE" BASIS. DPS MAY MAK
 In no event shall DPS, its directors, offices, employees, agents or representatives be liable for any direct, indirect, incidental, special, punitive or consequential damages of any kind, including, without limitation, those resulting from personal injury or loss of data, whether or not DPS has been advised of the possibility of damages, on any theory of liability, arising out of or in connection with access to, use or performance of the Site or any content or other information provided in connection with the Site. These limitations shall apply notwithstanding any failure of essential purpose of any limited remedy.
 
 You agree to indemnify, defend and hold harmless DPS and our parent, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your breach of these Terms or the documents they incorporate by reference or your violation of any law or the rights of a third-party.
-
 
 ### **THIRD PARTY SITES**
 
@@ -75,4 +78,4 @@ This electronic document, and all other electronic documents referred to or inco
 
 ### **CONTACT INFORMATION**
 
-If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org) 	     
+If you have questions or comments about these Terms, please contact us at [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org)

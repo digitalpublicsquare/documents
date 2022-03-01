@@ -1,6 +1,13 @@
+---
+layout: page
+title: Know It or Not
+permalink: /kion-pp/
+exclude: true
+---
+
 # **PRIVACY POLICY**
 
-Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at [https://sa.knowitornot.com/](https://sa.knowitornot.com/) (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information. In respect of the circumstances to which this privacy policy applies, we are the responsible party and are responsible for your personal information when engaging with the Site. 
+Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at [https://sa.knowitornot.com/](https://sa.knowitornot.com/) (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information. In respect of the circumstances to which this privacy policy applies, we are the responsible party and are responsible for your personal information when engaging with the Site.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site is made available to you for educational and research purposes.
 
@@ -29,6 +36,7 @@ We use Google Analytics and it drops a cookie to help us track basic game functi
 DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
+
 We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, and to report project progress. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
@@ -56,8 +64,9 @@ From time to time, we may include links to third party websites which are not co
 The Site is not intended for or designed to attract individuals under the age of 18. We do not knowingly collect personal information from users under 18. Anyone under 18 should not use the Site.
 
 ### **YOUR ACCESS TO AND CONTROL OVER INFORMATION**
+
 You may opt out of any future contact from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Site: see what data we have about you, if any; change/correct any data we have about you; request that we delete any data we have about you; express any concern you have about our use of your data.
 
 DPS place of business is Toronto, Ontario, Canada. If you have any requests, questions or comments about your personal information or this Privacy Policy, you may contact us by email: [privacy@digitalpublicsquare.org](mailto:privacy@digitalpublicsquare.org).
 
-You have the right to lodge a complaint at any time with the South African Information Regulator for personal information protection issues by emailing [POPIAComplaints@inforegulator.org.za](POPIAComplaints@inforegulator.org.za) ([http://www.justice.gov.za/inforeg](http://www.justice.gov.za/inforeg)). 
+You have the right to lodge a complaint at any time with the South African Information Regulator for personal information protection issues by emailing [POPIAComplaints@inforegulator.org.za](POPIAComplaints@inforegulator.org.za) ([http://www.justice.gov.za/inforeg](http://www.justice.gov.za/inforeg)).

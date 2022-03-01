@@ -1,6 +1,13 @@
+---
+layout: page
+title: A Few Mins
+permalink: /afm-pp/
+exclude: true
+---
+
 # **PRIVACY POLICY**
 
-*LAST UPDATED: November 23, 2021*
+_LAST UPDATED: November 23, 2021_
 
 「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
 
@@ -12,7 +19,6 @@ By voluntarily providing us with personal information through the Site, you are 
 
 Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Site. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 Your participation on this platform is voluntary - you can exit the Site at any time.
-
 
 ### **COLLECTION OF YOUR INFORMATION**
 
@@ -26,14 +32,12 @@ Personal information is information that identifies you as an individual. The in
 
 The Site is administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada or in the United States. Please note that this may not provide as much protection as your home country.
 
- 
 ### **COOKIES AND WEB ANALYTICS**
 
 We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly.
 
 DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
 
- 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
 We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, and to report project progress. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
@@ -46,11 +50,11 @@ Your personal information may be disclosed to a company or individual employed o
 Subject to applicable regulations, we may disclose your personal information to a government agency, court, or law enforcement personnel.
 
 ### **SECURITY OF YOUR INFORMATION**
- 
+
 We use administrative, technical, and physical security measures designed to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.
-  
-### **CONTROLS FOR DO-NOT-TRACK FEATURES** 
- 
+
+### **CONTROLS FOR DO-NOT-TRACK FEATURES**
+
 Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. In our experience, many people are not familiar with DNT and have not set their browser settings accordingly. As a more universal privacy approach on our Site, we do not respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online; instead, we anonymize all data collected on this Site to ensure everyone is able to maintain their privacy.
 
 ### **PERSONAL INFORMATION USED BY THIRD PARTY WEBSITES**

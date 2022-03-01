@@ -1,6 +1,13 @@
+---
+layout: page
+title: My Healthy Workplace
+permalink: /mhw-fr-pp/
+exclude: true
+---
+
 # **POLITIQUE DE CONFIDENTIALITÉ**
 
-*DERNIÈRE MISE À JOUR : 15 juin 2021*
+_DERNIÈRE MISE À JOUR : 15 juin 2021_
 
 Digital Public Square (« DPS », « nous » ou « notre ») s’engage à protéger la vie privée des visiteurs de notre site Web situé à www.myhealthyworkplace.ca (le « site »). Le site comprend toutes les applications téléchargeables, les caractéristiques, les fonctionnalités, le contenu ou les informations qui sont mis à disposition ou fournis sur le site et toute autre forme de support, support médiatique, site Web mobile ou application mobile qui y est liée ou connectée. Nous respectons la vie privée de nos utilisateurs et, dans le cadre de notre mission, nous nous efforçons de vous fournir toutes les informations pertinentes avant de recueillir vos renseignements personnels.
 

@@ -5,55 +5,55 @@
 layout: home
 ---
 
-# Digital Public Square Antimisinformation Games
+# Privacy Policies & Terms of Service
 
 ## It's Contagious
 
-- [Social Media Advertising Transparency](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Contagious/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
-- [Privacy Policy](/COVID19/It's%20Contagious/Privacy%20Policy.html)
-- [Terms of Service](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Contagious/Terms%20of%20Use.html)
+- [Social Media Advertising Transparency](/antimisinfogames/COVID19/It's%20Contagious/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
+- [Privacy Policy](/antimisinfogames/itsc-pp)
+- [Terms of Service](/antimisinfogames/itsc-tou)
 
 ## It's Infectious
 
-- [Social Media Advertising Transparency](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Infectious/Social%20Media%20Advertising%20Transparency/US_-It_s_Infectious_AD_Set.pdf)
-- [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Infectious/Privacy%20Policy.html)
-- [Terms of Service](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/It's%20Infectious/Terms%20of%20Use.html)
+- [Social Media Advertising Transparency](/antimisinfogames/COVID19/It's%20Infectious/Social%20Media%20Advertising%20Transparency/US_-It_s_Infectious_AD_Set.pdf)
+- [Privacy Policy](/antimisinfogames/itsi-pp)
+- [Terms of Service](/antimisinfogames/itsi-tou)
 
 ## The Coronavirus Quiz
 
-- [Social Media Advertising Transparency - Canada](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
-- [Social Media Advertising Transparency - USA](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Social%20Media%20Advertising%20Transparency/US_-It_s_Infectious_AD_Set.pdf)
-- [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Privacy%20Policy)
-- [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Terms%20of%20Use)
+- [Social Media Advertising Transparency - Canada](/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
+- [Social Media Advertising Transparency - USA](/antimisinfogames/COVID19/The%20Coronavirus%20Quiz/Social%20Media%20Advertising%20Transparency/US_-It_s_Infectious_AD_Set.pdf)
+- [Privacy Policy](/antimisinfogames/tcq-pp/)
+- [Terms of Use](/antimisinfogames/tcq-tou/)
 
 ---
 
 ## A Few Mins
 
-- [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Labour%20Standards/A%20Few%20Mins/Privacy%20Policy)
-- [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Labour%20Standards/A%20Few%20Mins/Terms%20of%20Use)
+- [Privacy Policy](/antimisinfogames/afm-pp)
+- [Terms of Use](/antimisinfogames/afm-tou)
 
 ---
 
 ## You Versus the Internet
 
 - South Africa
-  - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/South%20Africa/Privacy%20Policy)
-  - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/South%20Africa/Terms%20of%20Use)
+  - [Privacy Policy](/antimisinfogames/tvti-za-pp)
+  - [Terms of Use](/antimisinfogames/tvti-za-tou)
 - Ethiopia
   - Amharic
-    - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/Ethiopia/Amharic/Privacy%20Policy)
-    - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/Ethiopia/Amharic/Terms%20of%20Use)
+    - [Privacy Policy](/antimisinfogames/tvti-eth-am-pp)
+    - [Terms of Use](/antimisinfogames/tvti-eth-am-tou)
   - English
-    - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/Ethiopia/English/Privacy%20Policy)
-    - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Media%20Disinfo/Ethiopia/English/Terms%20of%20Use)
+    - [Privacy Policy](/antimisinfogames/tvti-eth-en-pp/)
+    - [Terms of Use](/antimisinfogames/tvti-eth-en-tou/)
 
 ---
 
 ## Yaung Zone May Gun
 
-- [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Religious%20Intolerance/yaungzonemaygun/Privacy%20Policy)
-- [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Religious%20Intolerance/yaungzonemaygun/Terms%20of%20Use)
+- [Privacy Policy](/antimisinfogames/yzmg-pp)
+- [Terms of Use](/antimisinfogames/yzmg-tou)
 
 ---
 
@@ -61,28 +61,28 @@ layout: home
 
 - Canada
   - English
-    - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/CAN/Privacy%20Policy)
-    - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/CAN/Terms%20of%20Use)
-    - [Social Media Advertising Transparency](Vaccines/CAN/Social%20Media%20Advertising%20Transparency/CAN_Know_It_or_Not_AD_set.pdf)
+    - [Privacy Policy](/antimisinfogames/kion-can-en-pp/)
+    - [Terms of Use](/antimisinfogames/kion-can-en-tou/)
+    - [Social Media Advertising Transparency](/antimisinfogames/Vaccines/CAN/Social%20Media%20Advertising%20Transparency/CAN_Know_It_or_Not_AD_set.pdf)
   - French
-    - [Politique de Confidentialite](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/CAN/Politique%20de%20Confidentialite)
-    - [Conditions d'Utilisation](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/CAN/Conditions%20DUtilisation)
+    - [Politique de Confidentialite](/antimisinfogames/kion-can-fr-pp/)
+    - [Conditions d'Utilisation](/antimisinfogames/kion-can-fr-tou/)
 - South Africa
-  - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/South%20Africa/Privacy%20Policy)
-  - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/South%20Africa/Terms%20of%20Use)
+  - [Privacy Policy](/antimisinfogames/kion-za-pp/)
+  - [Terms of Use](/antimisinfogames/kion-za-tou/)
 - USA
-  - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/US/Privacy%20Policy)
-  - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/US/Terms%20of%20Use)
-  - [Social Media Advertising Transparency](https://digitalpublicsquare.github.io/antimisinfogames/Vaccines/US/Social%20Media%20Advertising%20Transparency/US_Know_It_or_Not_AD_set.pdf)
+  - [Privacy Policy](/antimisinfogames/kion-us-pp/)
+  - [Terms of Use](/antimisinfogames/kion-us-tou/)
+  - [Social Media Advertising Transparency](/antimisinfogames/Vaccines/US/Social%20Media%20Advertising%20Transparency/US_Know_It_or_Not_AD_set.pdf)
 
 ---
 
 ## My Healthy Workplace
 
 - French
-  - [Politique de Confidentialite](<https://digitalpublicsquare.github.io/antimisinfogames/Workplace%20Safety/My%20Healthy%20Workplace/Privacy%20Policy%20(FR)>)
-  - [Conditions d'Utilisation](<https://digitalpublicsquare.github.io/antimisinfogames/Workplace%20Safety/My%20Healthy%20Workplace/Terms%20of%20Use%20(FR)>)
+  - [Politique de Confidentialite](/antimisinfogames/mhw-fr-pp)
+  - [Conditions d'Utilisation](/antimisinfogames/mhw-fr-tou)
 - English
-  - [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/Workplace%20Safety/My%20Healthy%20Workplace/Privacy%20Policy)
-  - [Terms of Use](https://digitalpublicsquare.github.io/antimisinfogames/Workplace%20Safety/My%20Healthy%20Workplace/Terms%20of%20Use)
-- [Sources (in both English & French)](https://digitalpublicsquare.github.io/antimisinfogames/Workplace%20Safety/My%20Healthy%20Workplace/Sources)
+  - [Privacy Policy](/antimisinfogames/mhw-en-pp)
+  - [Terms of Use](/antimisinfogames/mhw-en-tou)
+- [Sources (in both English & French)](/antimisinfogames/mhw-sources)
