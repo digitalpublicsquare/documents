@@ -1,5 +1,6 @@
 ---
 layout: home
+exclude: true
 ---
 
 ## It's Contagious
