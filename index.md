@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Digital Public Square
+title: Privacy Policies & Terms of Use
 exclude: true
 ---
 
