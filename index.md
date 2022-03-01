@@ -55,6 +55,11 @@ layout: home
 - [Privacy Policy](/antimisinfogames/yzmg-pp)
 - [Terms of Use](/antimisinfogames/yzmg-tou)
 
+## Maunghmangyi & Thuk Ha Mainlay
+
+- [Privacy Policy](/antimisinfogames/mgh-pp)
+- [Terms of Use](/antimisinfogames/mgh-tou)
+
 ---
 
 ## Know It or Not
