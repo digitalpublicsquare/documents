@@ -5,7 +5,7 @@ permalink: /kion-can-class-en-pp/
 exclude: true
 ---
 
-# **PRIVACU POLICY**
+# **PRIVACY POLICY**
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at www.learn.knowitornot.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected the Site.
 
