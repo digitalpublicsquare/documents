@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Know It or Not
-permalink: /kion-can-en-pp/
+permalink: /kion-can-class-en-pp/
 exclude: true
 ---
 
