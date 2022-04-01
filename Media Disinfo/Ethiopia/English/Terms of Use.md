@@ -1,13 +1,13 @@
 ---
 layout: page
 title: You Versus the Internet
-permalink: /tvti-eth-en-tou/
+permalink: /yvti-eth-en-tou/
 exclude: true
 ---
 
 # **TERMS OF USE**
 
-These website located at [http://shouldyoushareit.com/](http://shouldyoushareit.com/) (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Ethiopia. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These website located at [http://eth.versustheinternet.com/](http://eth.versustheinternet.com/) (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Ethiopia. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our Privacy Policy (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
