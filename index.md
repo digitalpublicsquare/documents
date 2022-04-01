@@ -62,13 +62,21 @@ exclude: true
 ## Know It or Not
 
 - Canada
-  - English
-    - [Privacy Policy](/antimisinfogames/kion-can-en-pp/)
-    - [Terms of Use](/antimisinfogames/kion-can-en-tou/)
-    - [Social Media Advertising Transparency](/antimisinfogames/Vaccines/CAN/Social%20Media%20Advertising%20Transparency/CAN_Know_It_or_Not_AD_set.pdf)
-  - French
-    - [Politique de Confidentialite](/antimisinfogames/kion-can-fr-pp/)
-    - [Conditions d'Utilisation](/antimisinfogames/kion-can-fr-tou/)
+  - Main version
+    - English
+      - [Privacy Policy](/antimisinfogames/kion-can-en-pp/)
+      - [Terms of Use](/antimisinfogames/kion-can-en-tou/)
+      - [Social Media Advertising Transparency](/antimisinfogames/Vaccines/CAN/Social%20Media%20Advertising%20Transparency/CAN_Know_It_or_Not_AD_set.pdf)
+    - French
+      - [Politique de Confidentialite](/antimisinfogames/kion-can-fr-pp/)
+      - [Conditions d'Utilisation](/antimisinfogames/kion-can-fr-tou/)
+  - Classroom
+    - English
+      - [Privacy Policy](/antimisinfogames/kion-can-class-en-pp/)
+      - [Terms of Use](/antimisinfogames/kion-can-class-en-tou/)
+    - French
+      - [Politique de Confidentialite](/antimisinfogames/kion-can-class-fr-pp/)
+      - [Conditions d'Utilisation](/antimisinfogames/kion-can-class-fr-tou/)  
 - South Africa
   - [Privacy Policy](/antimisinfogames/kion-za-pp/)
   - [Terms of Use](/antimisinfogames/kion-za-tou/)
