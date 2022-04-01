@@ -35,15 +35,15 @@ exclude: true
 ## You Versus the Internet
 
 - South Africa
-  - [Privacy Policy](/antimisinfogames/tvti-za-pp)
-  - [Terms of Use](/antimisinfogames/tvti-za-tou)
+  - [Privacy Policy](/antimisinfogames/yvti-za-pp)
+  - [Terms of Use](/antimisinfogames/yvti-za-tou)
 - Ethiopia
   - Amharic
-    - [Privacy Policy](/antimisinfogames/tvti-eth-am-pp)
-    - [Terms of Use](/antimisinfogames/tvti-eth-am-tou)
+    - [Privacy Policy](/antimisinfogames/yvti-eth-am-pp)
+    - [Terms of Use](/antimisinfogames/yvti-eth-am-tou)
   - English
-    - [Privacy Policy](/antimisinfogames/tvti-eth-en-pp/)
-    - [Terms of Use](/antimisinfogames/tvti-eth-en-tou/)
+    - [Privacy Policy](/antimisinfogames/yvti-eth-en-pp/)
+    - [Terms of Use](/antimisinfogames/yvti-eth-en-tou/)
 
 ---
 
@@ -76,7 +76,7 @@ exclude: true
       - [Terms of Use](/antimisinfogames/kion-can-class-en-tou/)
     - French
       - [Politique de Confidentialite](/antimisinfogames/kion-can-class-fr-pp/)
-      - [Conditions d'Utilisation](/antimisinfogames/kion-can-class-fr-tou/)  
+      - [Conditions d'Utilisation](/antimisinfogames/kion-can-class-fr-tou/)
 - South Africa
   - [Privacy Policy](/antimisinfogames/kion-za-pp/)
   - [Terms of Use](/antimisinfogames/kion-za-tou/)
