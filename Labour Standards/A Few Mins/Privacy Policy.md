@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Few Mins
+title: Small trivia, big challenge! 
 permalink: /afm-pp/
 exclude: true
 ---
