@@ -11,7 +11,7 @@ _LAST UPDATED: May 9, 2022_
 
 「隐私政策/使用条款」的正式版本载于下方。如有要求，我们可以提供中文译本的便利。
 
-The website located at afewmins.com (together, the “Site”) are operated by Goodbit (“we”, “us” or “our”). The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These websites located at afewmins.com and smalltrivia.com (together, the “Site”) are operated by Goodbit (“we”, “us” or “our”). The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 
