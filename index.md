@@ -29,6 +29,7 @@ exclude: true
 
 - [Privacy Policy](/antimisinfogames/afm-pp)
 - [Terms of Use](/antimisinfogames/afm-tou)
+- [Open Source License Disclosure](/antimisinfogames/labour-open-source-licence-disclosure.pdf)
 
 ---
 
