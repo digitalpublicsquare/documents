@@ -31,7 +31,7 @@ We are not responsible if information, medical or otherwise, made available on t
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy]((https://digitalpublicsquare.github.io/antimisinfogames/kion-us-pp/).
+Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/kion-us-pp/).
 
 ### **CONTENT AND LICENSE**
 
