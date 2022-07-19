@@ -7,7 +7,7 @@ exclude: true
 
 # **PRIVACY POLICY**
 
-_LAST UPDATED: November 11, 2020_
+_LAST UPDATED: July 19, 2021_
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at www.knowitornot.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
@@ -39,7 +39,7 @@ DPS does have access to Google Analytics logs, which do not contain your name bu
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
-We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funder (National Science Foundation, and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
+We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders, and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
 
