@@ -4,6 +4,11 @@ title: Privacy Policies & Terms of Use
 exclude: true
 ---
 
+## Ukraine Trivia
+
+- [Privacy Policy](/antimisinfogames/ut-pp)
+- [Terms of Use](/antimisinfogames/ut-tou)
+
 ## It's Contagious
 
 - [Social Media Advertising Transparency](/antimisinfogames/COVID19/It's%20Contagious/Social%20Media%20Advertising%20Transparency/Canada_-_It_s_Contagious_AD_Set.pdf)
