@@ -31,12 +31,6 @@ Personal information is information that identifies you as an individual. The in
 
 Digital Public Square is located within Canada, and therefore will transfer, process, and store any information in Canada, which may not provide as much protection as your home country.
 
-### **COOKIES AND WEB ANALYTICS**
-
-We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly.
-
-DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
-
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
 We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (Heritage Canada), and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
