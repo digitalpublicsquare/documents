@@ -9,7 +9,7 @@ exclude: true
 
 _LAST UPDATED: August 24, 2022_
 
-These websites located at www.ukrainetrivia.com (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+This website located at www.ukrainetrivia.com (the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 
@@ -22,12 +22,6 @@ By agreeing to these Terms, you represent that you are at least the age of 15 an
 ### **UPDATES**
 
 We reserve the right to make changes to these Terms at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of these Terms. Any changes or modifications will be effective immediately upon posting the updated Terms on the Site. You are encouraged to periodically review these Terms to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Terms by your continued use of the Site after the date such revised Terms are posted.
-
-### **NOT A DIAGNOSTIC SERVICE**
-
-The Site are an educational tool and is not intended to serve a purpose such as the following: as a diagnostic service; as a confirmatory service to provide certainty in diagnosis; to select, guide, or promote therapy of medical conditions; for use in hazardous or mission-critical circumstances or for uses requiring fail-safe performance; or in situations where failure could lead to death or personal injury (collectively, “Unauthorized Purposes”). Given the Site have not been designed, intended, or authorized for such Unauthorized Purposes, you shall not use the Site or any information provided therein for Unauthorized Purposes or such other purposes.
-
-We are not responsible if information, medical or otherwise, made available on this Site are not accurate, complete, or current. The material on this Site are provided for general information only and should not be relied upon or used for making decisions without consulting primary, more accurate, more complete, or more timely sources of information, including your family physician. Any reliance on the material on these Site is at your own risk.
 
 ### **PERSONAL INFORMATION**
 

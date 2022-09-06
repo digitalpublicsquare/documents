@@ -7,13 +7,13 @@ exclude: true
 
 # **PRIVACY POLICY**
 
-_LAST UPDATED: August 24, 2022_
+_LAST UPDATED: October 29, 2021_
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at www.ukrainetrivia.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site are made available to you for educational and research purposes.
 
-**By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada and the United States.**
+**By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada.**
 
 Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Site. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 
@@ -33,7 +33,7 @@ Digital Public Square is located within Canada, and therefore will transfer, pro
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
-We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (Heritage Canada), and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
+We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (The Department of Canadian Heritage), and may share findings with the University of South Carolina and the University of Regina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
 
