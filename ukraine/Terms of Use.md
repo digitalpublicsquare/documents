@@ -7,7 +7,7 @@ exclude: true
 
 # **TERMS OF USE**
 
-_LAST UPDATED: August 24, 2022_
+_LAST UPDATED: September 8, 2022_
 
 This website located at www.ukrainetrivia.com (the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
