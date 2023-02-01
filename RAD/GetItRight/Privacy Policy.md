@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Speed of Trust - Privacy Policy
-permalink: /sot-pp/
+title: Get it Right - Privacy Policy
+permalink: /gir-pp/
 exclude: true
 ---
 
@@ -9,11 +9,11 @@ exclude: true
 
 _LAST UPDATED: February 1, 2023_
 
-Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at \[url\] (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
+Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at www.getitrightng.com (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site are made available to you for educational and research purposes.
 
-**By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada and the United States.**
+**By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada.**
 
 Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the Site. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Site after the date such revised Privacy Policy is posted.
 
@@ -31,15 +31,9 @@ Personal information is information that identifies you as an individual. The in
 
 Digital Public Square is located within Canada, and therefore will transfer, process, and store any information in Canada, which may not provide as much protection as your home country.
 
-### **COOKIES AND WEB ANALYTICS**
-
-We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly.
-
-DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
-
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
-We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (Heritage Canada), and will share findings with the University of South Carolina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
+We compile aggregate de-identified statistical data and analysis for use internally, to share publicly, to report project progress with our funders (The Department of Canadian Heritage), and may share findings with the University of South Carolina and the University of Regina. We may also use your personal information in other ways with consent or as permitted by applicable law. By using the Site, you agree that we are hereby licensed to collect, use, share, and store anonymized (or pseudonymized) aggregated data collected through the Site for benchmarking, analytics, metrics, research, reporting, machine learning, and other business purposes.
 
 We reserve the right to disclose personal information if required to do so by law or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of DPS, its affiliates, its customers, service providers, or the public.
 
