@@ -7,7 +7,7 @@ exclude: true
 
 # **PRIVACY POLICY**
 
-_LAST UPDATED: February 8, 2023_
+_LAST UPDATED: February 14, 2023_
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at http://getitrightnigeria.com/ (the “Site”). The Site includes all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
@@ -31,15 +31,7 @@ Personal information is information that identifies you as an individual. The in
 
 - General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our site. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Site, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Site.
 
-- Cookies: In addition, when you visit our Site, we collect certain information about your activity on our Site, as further described below.
-
 The Site is administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada. Please note that this may not provide as much protection as your home country.
-
-### **COOKIES AND WEB ANALYTICS**
-
-We use Google Analytics and it drops a cookie to help us track basic game functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Site can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Site attempts to send you. Please note that if you decide to turn off or block cookies, our Site might not function correctly. 
-
-DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non-identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Site, determine the popularity of certain content, and better understand online activity.
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
