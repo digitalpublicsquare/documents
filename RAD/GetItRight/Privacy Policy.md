@@ -31,7 +31,7 @@ Personal information is information that identifies you as an individual. The in
 
 - General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our site. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Site, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Site.
 
-The Site is administered by us in Canada; however we may transfer, process, and store any information collected through the Site either in Canada. Please note that this may not provide as much protection as your home country.
+The Site is administered by us in Canada; we may transfer, process, and store any information collected through the Site in Canada. Please note that this may not provide as much protection as your home country.
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
