@@ -1,6 +1,6 @@
 ---
 layout: page
-title: maunghmangyi & thukhamainlay
+title: monstergabar
 permalink: /mgb-tou/
 exclude: true
 ---
