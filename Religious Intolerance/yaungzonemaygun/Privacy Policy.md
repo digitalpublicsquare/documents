@@ -9,7 +9,7 @@ The legally binding privacy policy and terms of use are provided in the English 
 
 # **PRIVACY POLICY**
 
-**_LAST UPDATED: January 7, 2022_**
+**_LAST UPDATED: February 14, 2023_**
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at yaungzonemaygun.com (the “Sites”). The Sites includes all downloadable applications, features, functionality, content, or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
@@ -27,16 +27,9 @@ Personal information is information that identifies you as an individual. The in
 
 - Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Sites.
 
-s- General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our sites. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Sites, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Sites.
-
-- Cookies: In addition, when you visit our Sites, we collect certain information about your activity on our Sites, as further described below.
+- General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our sites. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Sites, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Sites.
 
 The Sites is administered by us in Canada; however we may transfer, process, and store any information collected through the Sites either in Canada or in Taiwan. Please note that this may not provide as much protection as your home country.  
-Cookies and Website Analytics
-
-We use Google Analytics and it drops a cookie to help us track basic functionality and anonymized usage analytics. A “cookie” is a tiny element of data that our Sites can send to your browser, which may then be stored on your device. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies our Sites attempts to send you. Please note that if you decide to turn off or block cookies, our Sites might not function correctly.
-
-DPS does have access to Google Analytics logs, which do not contain your name but do contain information closely associated with you. We use IP address anonymization on our servers and Google Analytics anonymization to avoid storing information that could identify you. We record only non identifying data about the use (e.g.: what is clicked on, survey answers, and other aggregate data) to analyze and track users’ use of the Sites, determine the popularity of certain content, and better understand online activity.
 
 ### **USE AND DISCLOSURE OF YOUR INFORMATION**
 
@@ -66,7 +59,7 @@ From time to time, we may include links to third party websites which are not co
 
 The Sites is not intended for or designed to attract, individuals under the age of 18. We do not knowingly collect personal information from users under 18. Anyone under 18 should not use the Sites.
 
-YOUR ACCESS TO AND CONTROL OVER INFORMATION
+### **YOUR ACCESS TO AND CONTROL OVER INFORMATION**
 
 You may opt out of any future contact from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Site: see what data we have about you, if any; change/correct any data we have about you; request that we delete any data we have about you; express any concern you have about our use of your data.
 
