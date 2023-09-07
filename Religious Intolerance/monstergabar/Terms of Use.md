@@ -5,11 +5,11 @@ permalink: /mgb-tou/
 exclude: true
 ---
 
-TERMS OF USE
+# **TERMS OF USE**
 
 The legally binding privacy policy and terms of use are provided in the English language. The translation below is provided solely for convenience. In the event of any discrepancy, the terms and conditions outlined in the English version shall prevail.
 
-LAST UPDATED: September 6 2023
+_LAST UPDATED: September 6 2023_
 
 The legally binding Privacy Policy and Terms of Use are provided in the English language. The translation below is provided solely for convenience. Unless otherwise prescribed by applicable law, in the event of any discrepancy between the English version of the Privacy Policy and Terms of Use and the translation provided below, the English version shall prevail.
 
@@ -19,13 +19,13 @@ The Site is made available to you for educational and research purposes.
 
 These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Sites. You agree that your use of the Sites are subject to the terms of our Privacy Policy(“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
-BY USING THE SITES, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE SITES. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE SITES AND MUST EXIT THE SITES. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE SITES. BY USING THE SITES, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
+**BY USING THE SITES, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE SITES. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE SITES AND MUST EXIT THE SITES. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE SITES. BY USING THE SITES, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.**
 
 By agreeing to these Terms, you represent that you are at least the age of 18 and are a resident of Myanmar.
 
-ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ မူဝါဒ
+# **ကိုယ်ရေးလုံခြုံမှုဆိုင်ရာ မူဝါဒ**
 
-နောက်ဆုံးမွမ်းမံမှု- စက်တင်ဘာ ၆၊ ၂၀၂၃
+_နောက်ဆုံးမွမ်းမံမှု- စက်တင်ဘာ ၆၊ ၂၀၂၃_
 
 Digital Public Square (“DPS”, “ကျွန်ုပ်တို့” သို့မဟုတ် “ကျွန်ုပ်တို့ကို” သို့မဟုတ် “ကျွန်ုပ်တို့၏”) monstergabar.com (“ဆိုဒ်”) တွင် တည်ရှိသော ကျွန်ုပ်တို့၏ ဝဘ်ဆိုဒ်များသို့ လာရောက်ကြည့်ရှုသည့်သူများ၏ ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ဖို့ အာမခံပါသည်။ ထိုဆိုဒ်တွင် ဒေါင်းလုဒ်လုပ်နိုင်သော အက်ပလီကေးရှင်းများအားလုံး၊ အသားပေးဖော်ပြချက်များ၊ လုပ်ဆောင်ချက်၊ ပါဝင်သောအကြောင်းအရာ သို့မဟုတ် ဆိုဒ်တွင် ရရှိနိုင်သော သို့မဟုတ် အခြား မီဒီယာပုံစံ၊ မီဒီယာချန်နယ်လ်၊ မိုဘိုင်းလ် ဝက်ဘ်ဆိုဒ် သို့မဟုတ် ယင်းနှင့် ပူးတွဲလျက် ဆက်စပ်သည့် သို့မဟုတ် သက်ဆိုင်ရာ မိုဘိုင်းလ် အက်ပလီကေးရှင်းတို့တွင် ဖော်ပြပေးထားသော သတင်းအချက်အလက်များ ပါဝင်ပါသည်။ ကျွနု်ပ်တို့သည် အသုံးပြုသူများ၏ ကိုယ်ရေးလုံခြုံမှုကို လေးစားပြီး၊ ကျွန်ုပ်တို့၏ ရည်ရွယ်ချက်ကို အထမြောက်စေရန် သင်၏ ကိုယ်ရေးကိုယ်တာ အချက်အလက်ကို မစုဆောင်းထားမီ သက်ဆိုင်သည့် သတင်းအချက်အလက်များ အားလုံးကို ကြိုးစားဖော်ပြပေးထားပါသည်။
 

@@ -27,7 +27,7 @@ Personal information is information that identifies you as an individual. The in
 
 - Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Sites.
 
-s- General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our sites. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Sites, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Sites.
+- General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our sites. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Sites, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Sites.
 
 - Cookies: In addition, when you visit our Sites, we collect certain information about your activity on our Sites, as further described below.
 
