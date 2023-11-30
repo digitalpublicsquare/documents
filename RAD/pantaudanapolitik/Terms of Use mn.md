@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pantau Dana Politik - Terms of Use
-permalink: /pdp-tou-en/
+permalink: /pdp-tou-mn/
 exclude: true
 ---
 
