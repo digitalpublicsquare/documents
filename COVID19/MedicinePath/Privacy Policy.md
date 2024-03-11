@@ -7,9 +7,9 @@ exclude: true
 
 # **PRIVACY POLICY**
 
-_LAST UPDATED: February 14, 2023_
+_LAST UPDATED: March 11, 2024_
 
-Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at \[url\] (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
+Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at \[https://ourmedicinepath.com/\] (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
 This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site are made available to you for educational and research purposes.
 
