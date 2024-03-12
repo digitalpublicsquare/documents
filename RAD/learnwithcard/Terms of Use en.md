@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Pantau Dana Politik - Terms of Use
-permalink: /pdp-tou-en/
+title: Learn with CARD - Terms of Use
+permalink: /lwc-tou-en/
 exclude: true
 ---
 
 # **TERMS OF USE**
 
-Last updated: 2023-11-30
+Last updated: 2024-03-12
 
-The website located at pantaudanapolitik.com (the “Site”) is operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Malaysia. The Site includes all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+The website located at learnwithcard.com (the “Site”) is operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Malaysia. The Site includes all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
-The Site is made available to you for educational and research purposes. These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Site is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/pdp-pp-en/) (“Privacy Policy”) , which is incorporated by reference into, and forms an integral part of, the Terms.
+The Site is made available to you for educational and research purposes. These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Site is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/lwc-pp-en/) (“Privacy Policy”) , which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE SITE, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE SITE. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE SITE AND MUST EXIT THE SITE. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE SITE. BY USING THE SITE, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
