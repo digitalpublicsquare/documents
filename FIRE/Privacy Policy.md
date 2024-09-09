@@ -11,7 +11,7 @@ _LAST UPDATED: September 6, 2024_
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our website located at https://survey.weaskedcanada.com/ (together, the “Site”). The Site include all downloadable applications, features, functionality, content, or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
-This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site are made available to you for educational and research purposes.
+This Privacy Policy forms part of our Terms of Use and explains how we collect, use, disclose, and safeguard your personal information when you visit our Site. The Site are made available to you for educational and research purposes..
 
 **By voluntarily providing us with personal information through the Site, you are consenting to its collection, use, and disclosure in accordance with this Privacy Policy. You acknowledge and agree that such personal information may be transferred from your current location to the offices and servers of DPS and authorized third parties located in Canada and the United States.**
 
