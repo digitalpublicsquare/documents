@@ -7,9 +7,9 @@ exclude: true
 
 # **TERMS OF USE**
 
-_LAST UPDATED: September 6, 2024_
+_LAST UPDATED: November 7, 2024_
 
-These websites located at https://survey.weaskedcanada.com/ (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These websites located at https://fire.digitalpublicsquare.org/ (together, the “Site”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Site include all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
 The Site is made available to you for educational and research purposes.
 
