@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survey We Asked Canada - Terms of Use
+title: FIRE - Terms of Use
 permalink: /fire-tou/
 exclude: true
 ---
