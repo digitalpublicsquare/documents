@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Survey We Asked Canada - Privacy Policy
+title: FIRE - Privacy Policy
 permalink: /fire-pp/
 exclude: true
 ---
