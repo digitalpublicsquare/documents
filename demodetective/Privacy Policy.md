@@ -9,7 +9,7 @@ The legally binding privacy policy and terms of use are provided in the English 
 
 # **PRIVACY POLICY**
 
-**_LAST UPDATED: April 8, 2024_**
+**_LAST UPDATED: November 28, 2024_**
 
 Digital Public Square (“DPS”, “we” or “us” or “our”) is committed to protecting the privacy of visitors to our websites located at democracysonehtaut.com (the “Sites”). The Sites includes all downloadable applications, features, functionality, content, or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto. We respect the privacy of our users and to further our mission, we endeavor to provide you with all relevant information prior to collecting your personal information.
 
@@ -28,6 +28,10 @@ Personal information is information that identifies you as an individual. The in
 - Information you provide to us by contacting us via email. We do not collect your name, address, phone number, email address or such personal information through the Sites.
 
 - General usage data: The information our servers automatically collect when you access the Site include your browser type, operating system, access times, and the pages you have viewed on our sites. We do not log your Internet Protocol (“IP”) address on our servers. IP addresses may be stored by our security provider for purposes of security protection. If you are using our Sites, this information may also include your device type, your device system language, and city location, your operating system, your country, and other interactions with the Sites.
+
+- Cookies or Browser Cookies: A Cookie is a small file placed on your device. You can instruct your browser to refuse all Cookies or to indicate when a Cookie is being sent. Unless you have adjusted your browser setting so that it will refuse Cookies, our Site may use Cookies. Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when you go offline, while Session Cookies are deleted as soon as you close your web browser.
+
+- Web Beacons. Certain sections of our Site may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Us, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).
 
 The Sites is administered by us in Canada; however we may transfer, process, and store any information collected through the Sites either in Canada or in Taiwan. Please note that this may not provide as much protection as your home country.  
 
@@ -48,8 +52,7 @@ We use administrative, technical, and physical security measures designed to hel
 
 ### **CONTROLS FOR DO-NOT-TRACK FEATURES**
 
-Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. In our experience, many people are not familiar with DNT and have not set their browser settings accordingly. As a more universal privacy approach on our Sites, we do not respond to DNT browser signals or any other mechanism that automatically communicates your choice
-not to be tracked online; instead, we anonymize all data collected on these Sites to ensure everyone is able to maintain their privacy.
+Most web browsers and some mobile operating systems include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. In our experience, many people are not familiar with DNT and have not set their browser settings accordingly. As a more universal privacy approach on our Sites, we do not respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online; instead, we anonymize all data collected on these Sites to ensure everyone is able to maintain their privacy.
 
 ### **PERSONAL INFORMATION USED BY THIRD PARTY WEBSITES**
 
