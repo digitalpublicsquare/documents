@@ -4,10 +4,10 @@ title: Privacy Policies & Terms of Use
 exclude: true
 ---
 
-## Ukraine Trivia
+## Digital Public Square
 
-- [Privacy Policy](/documents/ut-pp)
-- [Terms of Use](/documents/ut-tou)
+- [Privacy Policy](/documents/dps-pp)
+- [Terms of Use](/documents/dps-tou)
 
 ---
 
