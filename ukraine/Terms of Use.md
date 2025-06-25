@@ -13,7 +13,7 @@ This website located at www.ukrainetrivia.com (the “Site”) are operated by D
 
 The Site is made available to you for educational and research purposes.
 
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/ut-pp) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Services is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/documents/ut-pp) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE Site, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE Site. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE Site AND MUST EXIT THE Site. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE Site, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
@@ -25,7 +25,7 @@ We reserve the right to make changes to these Terms at any time and for any reas
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/ut-pp).
+Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/documents/ut-pp).
 
 ### **CONTENT AND LICENSE**
 

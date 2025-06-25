@@ -9,13 +9,13 @@ exclude: true
 
 _LAST UPDATED: September 22, 2023_
 
-The website located at http://daretoknowsl.com/  (the “Site”) is operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Sri Lanka. The Site includes all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+The website located at http://daretoknowsl.com/ (the “Site”) is operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Sri Lanka. The Site includes all downloadable applications, features, functionality, content or information that is made available or provided on the Site and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
-The Site is made available to you for educational and research purposes. These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Site is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/dtk-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+The Site is made available to you for educational and research purposes. These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Site. You agree that your use of the Site is subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/documents/dtk-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE SITE, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE SITE. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, YOU MAY NOT ACCESS OR USE THE SITE AND MUST EXIT THE SITE. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE SITE. BY USING THE SITE, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
-By agreeing to these Terms, you represent that you are at least the age of majority in your local jurisdiction and are a resident of Sri Lanka. 
+By agreeing to these Terms, you represent that you are at least the age of majority in your local jurisdiction and are a resident of Sri Lanka.
 
 ### **UPDATES**
 
@@ -28,7 +28,7 @@ We are not responsible if information, medical or otherwise, made available on t
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/dtk-pp/).
+Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/documents/dtk-pp/).
 
 ### **CONTENT AND LICENSE**
 
@@ -56,7 +56,7 @@ Any links on the Site to third party websites are provided for your convenience.
 
 ### **GOVERNING LAW**
 
-These Terms and any documents referenced herein shall be governed by and construed in accordance with the laws of the Province of Ontario and federal laws of Canada applicable therein. You agree to the exclusive jurisdiction of the courts of the Province of Ontario in respect of all matters and disputes arising hereunder. 
+These Terms and any documents referenced herein shall be governed by and construed in accordance with the laws of the Province of Ontario and federal laws of Canada applicable therein. You agree to the exclusive jurisdiction of the courts of the Province of Ontario in respect of all matters and disputes arising hereunder.
 
 ### **ENTIRE AGREEMENT**
 

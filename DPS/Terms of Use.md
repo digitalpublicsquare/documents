@@ -1,17 +1,17 @@
 ---
 layout: page
-title: FIRE - Terms of Use
-permalink: /fire-tou/
+title: Digital Public Square - Terms of Use
+permalink: /dps-tou/
 exclude: true
 ---
 
 # **TERMS OF USE**
 
-_LAST UPDATED: February 19, 2025_
+_LAST UPDATED: June 25, 2025_
 
-These websites located at https://fire.digitalpublicsquare.org/ (together, the “Sites”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Sites include all downloadable applications, features, functionality, content or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto.
+These websites located at https://digitalpublicsquare.org/ (together, the “Sites”) are operated by Digital Public Square (“DPS”, “we”, “us” or “our”) and is intended for audiences in Canada. The Sites include all downloadable applications, features, functionality, content or information that is made available or provided on the Sites and any other media form, media channel, mobile website, or mobile application related or connected thereto.
 
-These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Sites. You agree that your use of the Sites is also subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/documents/fire-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
+These Terms of Use (“Terms”) set out the terms and conditions that apply to your access and use of the Sites. You agree that your use of the Sites is also subject to the terms of our [Privacy Policy](https://digitalpublicsquare.github.io/documents/dps-pp/) (“Privacy Policy”), which is incorporated by reference into, and forms an integral part of, the Terms.
 
 BY USING THE SITES, YOU ARE DEEMED TO HAVE READ AND ARE INDICATING YOUR ACCEPTANCE OF, AND YOU AGREE TO BE BOUND BY, THE TERMS AND CONDITIONS OF THESE TERMS WHICH SHALL GOVERN YOUR ACCESS AND USE OF THE SITES. IF YOU DO NOT AGREE WITH ONE OR MORE OF THESE TERMS, DO NOT ACCESS OR USE THE SITES AND YOU MUST EXIT THE SITES. THESE TERMS CONTAIN A RELEASE BY YOU OF ALL CLAIMS FOR DAMAGE AGAINST US THAT MAY ARISE OUT OF YOUR USE OF THE Site. BY USING THE SITES, YOU AFFIRM THAT YOU AGREE TO THESE PROVISIONS.
 
@@ -29,7 +29,7 @@ We are not responsible if information, medical or otherwise, made available on t
 
 ### **PERSONAL INFORMATION**
 
-Our practice regarding the collection, use, disclosure, and safeguard of your personal information collected through the use of our Sites is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/documents/fire-pp/). The Privacy Policy forms part of these Terms.
+Our practice regarding the collection, use, disclosure, and safeguard of your personal information collected through the use of our Sites is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/documents/dps-pp/). The Privacy Policy forms part of these Terms.
 
 ### **CONTENT AND LICENSE**
 

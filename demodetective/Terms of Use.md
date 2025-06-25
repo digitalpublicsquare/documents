@@ -26,7 +26,7 @@ We reserve the right to make changes to these Terms at any time and for any reas
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/antimisinfogames/dd-pp/)
+Your personal information is governed by our [Privacy Policy](https://digitalpublicsquare.github.io/documents/dd-pp/)
 
 ### **CONTENT AND LICENSE**
 

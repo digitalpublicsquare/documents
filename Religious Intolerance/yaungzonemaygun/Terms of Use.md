@@ -26,7 +26,7 @@ We reserve the right to make changes to these Terms at any time and for any reas
 
 ### **PERSONAL INFORMATION**
 
-Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/antimisinfogames/-/blob/master/Religious%20Intolerance/yaungzonemaygun/Privacy%20Policy.md)
+Your personal information is governed by our [Privacy Policy](https://gitlab.com/digitalpublicsquare/documents/-/blob/master/Religious%20Intolerance/yaungzonemaygun/Privacy%20Policy.md)
 
 ### **CONTENT AND LICENSE**
 
